@@ -27,6 +27,7 @@ h2 {
 
 .posttitle {
     overflow: hidden;
+    border-top: thin double #fd871f;
 }
 
 .posttitle h2 {
